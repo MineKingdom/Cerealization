@@ -1,2 +1,2 @@
 branches:
-  exclude: travis
+  except: travis
